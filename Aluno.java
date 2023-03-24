@@ -5,6 +5,7 @@ public class Aluno{
     int cpf;
     int rg;
     int ra = 0;
+    Curso cso = new Curso();
     
 
 
