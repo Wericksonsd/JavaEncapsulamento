@@ -10,7 +10,6 @@ public class RecInfos {
 
         System.out.println(x);
         x = ipt.nextLine();
-        ipt.close();
         y = Integer.parseInt(x);
         return y;
     }
